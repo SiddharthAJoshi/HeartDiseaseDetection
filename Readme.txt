@@ -1,4 +1,5 @@
 If working on windows os:
+Change Tkinter to tkinter for python3
 
 Required Packages and Setups
 
